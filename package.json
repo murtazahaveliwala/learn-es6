@@ -1,0 +1,23 @@
+{
+  "name": "learn-es6",
+  "version": "1.0.0",
+  "description": "ES6 learing session notes",
+  "main": "talk.js",
+  "scripts": {
+    "preexecute": "babel talk.js -d build",
+    "execute": "node build/talk.js"
+  },
+  "keywords": [
+    "es6",
+    "EcmaScript2015",
+    "tutorial",
+    "learn"
+  ],
+  "author": "Murtaza Haveliwala <murtaza.sh@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
