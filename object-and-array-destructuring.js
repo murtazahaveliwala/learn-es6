@@ -4,8 +4,8 @@
 
 /*********************************************
  *
- * Learn EcmaScript2015/ES6
- * ^^^^^^^^^^^^^^^^^^^^^^^^
+ *        Learn EcmaScript2015/ES6
+ *        ========================
  *
  * Reference: Understanding ECMAScript 6 (by Nicholas C. Zakas)
  * (https://leanpub.com/understandinges6/read/)
@@ -16,8 +16,8 @@
 /**
  Session 1 - 4th May 2018
 
- Object and Array Destructuring
- ------------------------------
+    Object and Array Destructuring
+    ------------------------------
  */
 
 
